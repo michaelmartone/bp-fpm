@@ -1,4 +1,4 @@
-FROM php:7.2-fpm
+FROM php:7.0-fpm
 # readline: libreadline-dev libedit-dev 
 # xml & soap: libxml2-dev
 # zip: zlib1g-dev
